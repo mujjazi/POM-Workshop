@@ -7,4 +7,7 @@ If you want to setup this project on your Windows PC then there is a simple guid
 
 # Questions
 
-In case of any questions, feel free to ask questions on my LinkedIn: https://www.linkedin.com/in/mujjazi/
+In case of any questions, feel free to ask questions on:
+
+## LinkedIn: https://www.linkedin.com/in/mujjazi/
+## Slack: testautomationpk.slack.com 
